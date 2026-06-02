@@ -1,9 +1,11 @@
 # EventHub — Event Management Platform
 A React application where users can browse events, book tickets, and manage their bookings.
-Built as part of the Humber College React course — Project 1.
+Built as part of the Humber College React course Project.
 
 **Live Demo:** https://event-management-application-zeta-gules.vercel.app/
+
 **GitHub:** https://github.com/bm-user/EventManagementApplication
+
 ---
 ## Features
 - Browse events with search, category/date/price filters, and sorting
