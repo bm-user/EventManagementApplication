@@ -1,6 +1,9 @@
 # EventHub — Event Management Platform
 A React application where users can browse events, book tickets, and manage their bookings.
 Built as part of the Humber College React course — Project 1.
+
+**Live Demo:** https://event-management-application-zeta-gules.vercel.app/
+**GitHub:** https://github.com/bm-user/EventManagementApplication
 ---
 ## Features
 - Browse events with search, category/date/price filters, and sorting
@@ -20,14 +23,10 @@ npm install
 npm run server
 Runs at: http://localhost:3001
 
-**Step 3 — Start the React app (in a second terminal):**
-npm run dev
-Opens at: http://localhost:5173
-
-Both terminals must be running for the app to work correctly.
+No local backend needed — data is served from Firebase Firestore.
 
 Tech Stack
 React 19 + Vite
 Tailwind CSS
-json-server (local fake REST API)
-
+Firebase Firestore (cloud database)
+Deployed on Vercel
