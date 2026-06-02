@@ -14,16 +14,13 @@ Built as part of the Humber College React course — Project 1.
 - Responsive design (desktop and mobile)
 ---
 ## How to Run
-You need **two terminals** running at the same time.
 **Step 1 — Install dependencies (first time only):**
 ```bash
 npm install
 
-**Step 2 — Start the fake backend (json-server)**
-npm run server
-Runs at: http://localhost:3001
-
-No local backend needed — data is served from Firebase Firestore.
+**Step 2 — Start the react app:**
+npm run dev
+Opens at: http://localhost:5173
 
 Tech Stack
 React 19 + Vite
